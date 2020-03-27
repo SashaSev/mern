@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret" : "sasha youtube mern",
+  "mongoUrl" : "mongodb+srv://sasha:Exnikner3hgm@cluster0-rxchu.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl" : "http://localhost:5000"
+}
